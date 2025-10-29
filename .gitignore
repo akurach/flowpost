@@ -5,3 +5,4 @@ models/
 *.db
 .idea/
 .vscode/
+.vs/
